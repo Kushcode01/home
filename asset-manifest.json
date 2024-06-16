@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.b15c3522.js",
+    "main.js": "/home/static/js/main.a4b3eda4.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
     "static/media/kushagra.jpg": "/home/static/media/kushagra.0a827621c1a4f564fbbb.jpg",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.b15c3522.js.map": "/home/static/js/main.b15c3522.js.map",
+    "main.a4b3eda4.js.map": "/home/static/js/main.a4b3eda4.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.b15c3522.js"
+    "static/js/main.a4b3eda4.js"
   ]
 }
